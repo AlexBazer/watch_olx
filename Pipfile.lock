@@ -1,0 +1,22 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "81ade2b6fb05a8842c66d0795703cfb8199154f0a11704f4155d5ae63876a577"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "beautifulsoup4": "*",
+        "ipdb": "*",
+        "ipython": "*",
+        "python-telegram-bot": "*",
+        "requests": "*"
+    },
+    "develop": {}
+}
